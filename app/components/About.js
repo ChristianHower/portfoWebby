@@ -1,24 +1,24 @@
 export default function About() {
   const skills = [
     {
-      icon: "🏗️",
-      title: "Structural Analysis",
-      desc: "Load calculations, stress analysis, and structural modeling using industry-standard software.",
-    },
-    {
-      icon: "🏛️",
-      title: "Architectural Design",
-      desc: "Space planning, conceptual design, and visual communication bridging engineering and architecture.",
-    },
-    {
-      icon: "🌱",
-      title: "Sustainable Infrastructure",
-      desc: "Green building principles, LEED frameworks, and environmentally-conscious design solutions.",
-    },
-    {
       icon: "📐",
-      title: "CAD & BIM",
-      desc: "Proficient in AutoCAD, Revit, and Civil 3D for detailed design documentation and modeling.",
+      title: "AutoCAD & SketchUp",
+      desc: "Design documentation, 3D modeling, and architectural visualization using industry-standard tools.",
+    },
+    {
+      icon: "📊",
+      title: "MATLAB & Microsoft 365",
+      desc: "Data analysis, numerical computing, and professional documentation for engineering coursework.",
+    },
+    {
+      icon: "🎮",
+      title: "Blender & Unreal Engine",
+      desc: "3D design, VR development, and game environment creation — hands-on experience from MMC Digital Lab.",
+    },
+    {
+      icon: "✍️",
+      title: "Technical Writing",
+      desc: "Professional writing for engineering reports and project grants, with a deep understanding of engineering ethics.",
     },
   ];
 
@@ -30,32 +30,34 @@ export default function About() {
 
       <p className="about-text">
         I'm a Civil Engineering student at{" "}
-        <strong>The Ohio State University</strong> with a minor in{" "}
-        <strong>Architectural Studies</strong>. I'm passionate about the
-        intersection of structural engineering and architectural design —
-        creating spaces that are both beautifully designed and built to
-        last.
+        <strong>The Ohio State University</strong> pursuing a B.S. in Civil
+        Engineering with a minor in <strong>Architectural Studies</strong>.
+        Originally from Medford, New Jersey, I'm passionate about the
+        intersection of structural engineering and architectural design.
       </p>
 
       <p className="about-detail">
-        From analyzing load-bearing systems to sketching building concepts,
-        I bring a unique dual perspective that combines engineering rigor
-        with creative vision. I'm driven by the belief that infrastructure
-        should be as inspiring as it is functional.
+        I'm seeking an engineering internship for Summer 2026, looking to
+        apply my knowledge from civil engineering and architecture coursework
+        to gain hands-on experience in transportation and/or structural
+        engineering. Outside the classroom, I serve as an Engineers' Council
+        Representative for OHI/O, an officer in the Game Creation Club, and
+        I'm an Undergraduate Grader for OSU's Department of Engineering
+        Education.
       </p>
 
       <div className="stats-grid">
         <div className="stat glass-panel">
-          <h4 className="stat-number gradient-text">3+</h4>
-          <p className="stat-label">Years of Study</p>
+          <h4 className="stat-number gradient-text">3.49</h4>
+          <p className="stat-label">GPA</p>
         </div>
         <div className="stat glass-panel">
-          <h4 className="stat-number gradient-text">OSU</h4>
-          <p className="stat-label">Ohio State</p>
+          <h4 className="stat-number gradient-text">2028</h4>
+          <p className="stat-label">Expected Graduation</p>
         </div>
         <div className="stat glass-panel">
-          <h4 className="stat-number gradient-text">2</h4>
-          <p className="stat-label">Disciplines</p>
+          <h4 className="stat-number gradient-text">1st</h4>
+          <p className="stat-label">Place — MakeOHI/O 2026</p>
         </div>
       </div>
 
@@ -63,7 +65,7 @@ export default function About() {
         className="section-title"
         style={{ marginTop: "5rem", fontSize: "1.75rem" }}
       >
-        Focus <span className="gradient-text">Areas</span>
+        Skills &amp; <span className="gradient-text">Tools</span>
       </h3>
 
       <div className="skills-grid">

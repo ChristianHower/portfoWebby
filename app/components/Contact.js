@@ -7,21 +7,21 @@ export default function Contact() {
 
       <div className="contact-card glass-panel">
         <p className="about-text" style={{ marginBottom: "1.5rem" }}>
-          Whether you have a project opportunity, want to collaborate on
-          research, or just want to connect — I'd love to hear from you.
+          Whether you have an internship opportunity, want to collaborate on
+          a project, or just want to connect — I'd love to hear from you.
         </p>
 
         <a
-          href="mailto:hower.christian@osu.edu"
+          href="mailto:christianh.hower@gmail.com"
           className="gradient-text contact-email"
         >
-          hower.christian@osu.edu
+          christianh.hower@gmail.com
         </a>
 
         <br />
 
         <a
-          href="mailto:hower.christian@osu.edu"
+          href="mailto:christianh.hower@gmail.com"
           className="btn-primary"
           style={{ marginTop: "1rem" }}
         >
@@ -30,7 +30,7 @@ export default function Contact() {
 
         <div className="contact-links">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/christian-hower-42b177319/"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-social"
@@ -38,7 +38,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/ChristianHower"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-social"

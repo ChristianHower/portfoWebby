@@ -19,7 +19,7 @@ export default function Home() {
         <section className="hero-section" id="home">
           <span className="hero-badge glass-panel">
             <span className="hero-badge-dot" />
-            Open to opportunities
+            Seeking Summer 2026 Internship
           </span>
 
           <h1 className="hero-title">
@@ -29,9 +29,9 @@ export default function Home() {
           </h1>
 
           <p className="hero-subtitle">
-            Civil Engineering student at The Ohio State University with a
-            minor in Architectural Studies — bridging structural precision
-            and architectural vision.
+            B.S. Civil Engineering at The Ohio State University · Minor in
+            Architectural Studies · Interested in transportation and
+            structural engineering.
           </p>
 
           <div className="hero-actions">

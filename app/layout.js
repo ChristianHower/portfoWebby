@@ -16,19 +16,22 @@ const outfit = Outfit({
 export const metadata = {
   title: "Christian Hower | Civil Engineering Portfolio",
   description:
-    "Portfolio of Christian Hower — Civil Engineering student at The Ohio State University with a minor in Architectural Studies. Showcasing projects in structural design, sustainable infrastructure, and architectural innovation.",
+    "Portfolio of Christian Hower — B.S. Civil Engineering student at The Ohio State University with a minor in Architectural Studies. Seeking internship opportunities in transportation and structural engineering. GPA 3.49.",
   keywords: [
     "Christian Hower",
     "Civil Engineering",
     "Ohio State University",
     "Architectural Studies",
-    "Portfolio",
-    "Structural Design",
+    "Structural Engineering",
+    "Transportation Engineering",
+    "AutoCAD",
+    "MATLAB",
+    "SketchUp",
   ],
   openGraph: {
     title: "Christian Hower | Civil Engineering Portfolio",
     description:
-      "Civil Engineering student at The Ohio State University with a minor in Architectural Studies.",
+      "B.S. Civil Engineering student at The Ohio State University with a minor in Architectural Studies. 1st Place MakeOHI/O 2026.",
     type: "website",
   },
 };
